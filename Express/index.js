@@ -10,9 +10,10 @@ app.get('/', (req, res) =>
 });
 app.get('/about',(req, res) =>
 {
-    return res.send("hello form about page");
+    return res.send(`Hello , ${req.query.name}`);
 });
 
-const myserver = http.createServer(app);
+app.listen(8000, ()=> {console.log("Server Start")});
+// const myserver = http.createServer(app);
 
-myserver.listen(8000, ()=> {console.log("Server Start")});
+// myserver.listen(8000, ()=> {console.log("Server Start")});
