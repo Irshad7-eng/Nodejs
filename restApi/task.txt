@@ -1,0 +1,18 @@
+REST API -> JSON
+
+GET /users -> List all users (return the HTML Document Render)  DONE
+GET/api/users -> List the all JSON - DONE
+
+GET /api/user/1 -> get the user with id 1
+GET /api/user/2 -> get the user with id 2
+
+// daynamic PATh
+get/api/user/:id
+
+:id -> variable / daynamic
+
+POST/api/user - create new user
+
+PATCH/api/users/1 - Edit the user with ID 1
+
+DELETE/api/ users/1 -> delete the user with id 1
