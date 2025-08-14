@@ -7998,29 +7998,5 @@
         "email": "dmarierr@telegraph.co.uk",
         "gender": "Female",
         "job_tittle": "Dental Hygienist"
-    },
-    {
-        "first_name": "md",
-        "last_name": "irshad",
-        "email": "mdiayan@gamil.com",
-        "gender": "male",
-        "job_tittle": "software engineer",
-        "id": 1001
-    },
-    {
-        "first_name": "md",
-        "last_name": "irfan",
-        "email": "mdiayan@gamil.com",
-        "gender": "male",
-        "job_tittle": "software engineer",
-        "id": 1002
-    },
-    {
-        "first_name": "md",
-        "last_name": "irfan",
-        "email": "mdiayan@gamil.com",
-        "gender": "male",
-        "job_tittle": "software engineer",
-        "id": 1003
     }
 ]
